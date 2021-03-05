@@ -4,7 +4,6 @@ def maxProfit(prices):
         
         max_profit = 0
         mine = float(inf)
-        maxe = 0
         
         for price in prices:
             
