@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
-def maxDepth(self, root: TreeNode) -> int:
+def maxDepth(root):
         
         if root is None: return 0
         
