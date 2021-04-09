@@ -15,3 +15,6 @@ Every file includes a (commented) link to the problem and is named after the ori
 | Reorder data in log files       |   [Link](reorderLogFiles.py)   |
 | Fruit into baskets              |   [Link](totalFruit.py)        |
 | Two sum                         |   [Link](twoSum.py)            |
+| Permutations                    |   [Link](permute.py)           |
+| Single number                   |   [Link](singleNumber.py)      |
+| Binary tree inorder traversal   |   [Link](inorderTraversal.py)  |

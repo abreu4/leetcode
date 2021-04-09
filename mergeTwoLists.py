@@ -1,20 +1,6 @@
 # https://leetcode.com/problems/merge-two-sorted-lists/
 
-class Node:
-    def __init__(self, val=0, next=None):
-         self.val = val
-         self.next = next
-
-    def printList(self):
-        
-        trail = self
-        
-        while trail.next:
-            print(trail.val, end='-> ')
-            trail = trail.next
-
-        print(trail.val)
-
+from utilities.singly_linked_list_node import Node
 
 def linkedListFromList(l):
     
