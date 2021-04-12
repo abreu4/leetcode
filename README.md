@@ -1,7 +1,7 @@
 # Leetcode
 
 My Python solutions for leetcode problems.
-Every file includes a (commented) link to the problem and is named after the original leetcode solution function.
+Every file includes a (commented) link to the problem and is named after the original leetcode function.
 
 | Name                            | Solution                       |
 | :-------------------------------| :-----------------------------:|
@@ -18,3 +18,9 @@ Every file includes a (commented) link to the problem and is named after the ori
 | Permutations                    |   [Link](permute.py)           |
 | Single number                   |   [Link](singleNumber.py)      |
 | Binary tree inorder traversal   |   [Link](inorderTraversal.py)  |
+| Reverse linked list             |   [Link](reverseList.py)       |
+| Subsets                         |   [Link](subsets.py)           |
+| Fizz Buzz                       |   [Link](fizzBuzz.py)          |
+| Kth smallest element in a BST   |   [Link](kthSmallest.py)       |
+| Top K frequent elements         |   [Link](topKFrequent.py)      |
+
