@@ -26,3 +26,9 @@ Every file includes a commented link to the original problem.
 | Product of array except self    |   [Link](productExceptSelf.py) |
 | Convert sorted array to BST     |   [Link](sortedArrayToBST.py)  |
 | Rotate image                    |   [Link](rotate.py)            |
+| Majority element                |   [Link](majorityElement.py)   |
+| Group anagrams                  |   [Link](groupAnagrams.py)     |
+| Kth largest element in array    |   [Link](findKthLargest.py)    |
+| Valid anagram                   |   [Link](isAnagram.py)         |
+| Game of life                    |   [Link](gameOfLife.py)        |
+
