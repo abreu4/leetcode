@@ -1,7 +1,7 @@
 # Leetcode
 
 My Python solutions for leetcode problems.
-Every file includes a (commented) link to the problem and is named after the original leetcode function.
+Every file includes a commented link to the original problem.
 
 | Name                            | Solution                       |
 | :-------------------------------| :-----------------------------:|
@@ -23,4 +23,6 @@ Every file includes a (commented) link to the problem and is named after the ori
 | Fizz Buzz                       |   [Link](fizzBuzz.py)          |
 | Kth smallest element in a BST   |   [Link](kthSmallest.py)       |
 | Top K frequent elements         |   [Link](topKFrequent.py)      |
-
+| Product of array except self    |   [Link](productExceptSelf.py) |
+| Convert sorted array to BST     |   [Link](sortedArrayToBST.py)  |
+| Rotate image                    |   [Link](rotate.py)            |
