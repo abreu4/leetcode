@@ -25,20 +25,21 @@ def print_tree(head):
 
 
 def tree_from_array(arr):
-	head = None
-	head = insert_level_order(arr, head, 0, len(arr))
-	return head
 
+    def insert_level_order(arr, root, i, n):
 
-def insert_level_order(arr, root, i, n):
+        # Base case for recursion 
+        if i < n and arr[i]:
       
-    # Base case for recursion 
-    if i < n and arr[i]:
-  
-        temp = TreeNode(val=arr[i])
-        root = temp 
-  
-        root.left = insert_level_order(arr, root.left, 2 * i + 1, n) 
-        root.right = insert_level_order(arr, root.right, 2 * i + 2, n)
-    
-    return root
+            temp = TreeNode(val=arr[i])
+            root = temp 
+      
+            root.left = insert_level_order(arr, root.left, 2 * i + 1, n) 
+            root.right = insert_level_order(arr, root.right, 2 * i + 2, n)
+        
+        return root
+
+    # build binary search tree from sorted array
+    head = None
+    head = insert_level_order(arr, head, 0, len(arr))
+    return head

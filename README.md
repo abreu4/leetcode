@@ -3,32 +3,41 @@
 My Python solutions for leetcode problems.
 Every file includes a commented link to the original problem.
 
-| Name                            | Solution                       |
-| :-------------------------------| :-----------------------------:|
-| Clone a graph                   |   [Link](cloneGraph.py)        |
-| Minimum index sum of two lists  |   [Link](findRestaurant.py)    |
-| First unique char in string     |   [Link](firstUniqChar)        |
-| Max depth of binary tree        |   [Link](maxDepth.py)          |
-| Best time to buy/sell stock     |   [Link](maxProfit.py)         |
-| Merge two sorted lists          |   [Link](mergeTwoLists.py)     |
-| Missing number                  |   [Link](missingNumber.py)     |
-| Reorder data in log files       |   [Link](reorderLogFiles.py)   |
-| Fruit into baskets              |   [Link](totalFruit.py)        |
-| Two sum                         |   [Link](twoSum.py)            |
-| Permutations                    |   [Link](permute.py)           |
-| Single number                   |   [Link](singleNumber.py)      |
-| Binary tree inorder traversal   |   [Link](inorderTraversal.py)  |
-| Reverse linked list             |   [Link](reverseList.py)       |
-| Subsets                         |   [Link](subsets.py)           |
-| Fizz Buzz                       |   [Link](fizzBuzz.py)          |
-| Kth smallest element in a BST   |   [Link](kthSmallest.py)       |
-| Top K frequent elements         |   [Link](topKFrequent.py)      |
-| Product of array except self    |   [Link](productExceptSelf.py) |
-| Convert sorted array to BST     |   [Link](sortedArrayToBST.py)  |
-| Rotate image                    |   [Link](rotate.py)            |
-| Majority element                |   [Link](majorityElement.py)   |
-| Group anagrams                  |   [Link](groupAnagrams.py)     |
-| Kth largest element in array    |   [Link](findKthLargest.py)    |
-| Valid anagram                   |   [Link](isAnagram.py)         |
-| Game of life                    |   [Link](gameOfLife.py)        |
+| Name                              | Solution                         |
+| :-------------------------------  | :-----------------------------:  |
+| Clone a graph                     |   [Link](cloneGraph.py)          |
+| Minimum index sum of two lists    |   [Link](findRestaurant.py)      |
+| First unique char in string       |   [Link](firstUniqChar)          |
+| Max depth of binary tree          |   [Link](maxDepth.py)            |
+| Best time to buy/sell stock       |   [Link](maxProfit.py)           |
+| Merge two sorted lists            |   [Link](mergeTwoLists.py)       |
+| Missing number                    |   [Link](missingNumber.py)       |
+| Reorder data in log files         |   [Link](reorderLogFiles.py)     |
+| Fruit into baskets                |   [Link](totalFruit.py)          |
+| Two sum                           |   [Link](twoSum.py)              |
+| Permutations                      |   [Link](permute.py)             |
+| Single number                     |   [Link](singleNumber.py)        |
+| Binary tree inorder traversal     |   [Link](inorderTraversal.py)    |
+| Reverse linked list               |   [Link](reverseList.py)         |
+| Subsets                           |   [Link](subsets.py)             |
+| Fizz Buzz                         |   [Link](fizzBuzz.py)            |
+| Kth smallest element in a BST     |   [Link](kthSmallest.py)         |
+| Top K frequent elements           |   [Link](topKFrequent.py)        |
+| Product of array except self      |   [Link](productExceptSelf.py)   |
+| Convert sorted array to BST       |   [Link](sortedArrayToBST.py)    |
+| Rotate image                      |   [Link](rotate.py)              |
+| Majority element                  |   [Link](majorityElement.py)     |
+| Group anagrams                    |   [Link](groupAnagrams.py)       |
+| Kth largest element in array      |   [Link](findKthLargest.py)      |
+| Valid anagram                     |   [Link](isAnagram.py)           |
+| Game of life                      |   [Link](gameOfLife.py)          |
+| Best time to buy/sell stock II    |   [Link](maxProfit2.py)          |
+| Move zeroes                       |   [Link](moveZeroes.py)          |
+| Find duplicate                    |   [Link](findDuplicate.py)       |
+| Number of islands                 |   [Link](numIslands.py)          |
+| Odd even linked list              |   [Link](oddEvenList.py)         |
+| Excel sheet column number         |   [Link](titleToNumber.py)       |
+| Binary tree level order traverse  |   [Link](levelOrder.py)          |
+
+
 

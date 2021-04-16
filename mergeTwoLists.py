@@ -1,17 +1,6 @@
 # https://leetcode.com/problems/merge-two-sorted-lists/
 
-from utilities.singly_linked_list_node import Node
-
-def linkedListFromList(l):
-    
-    head = Node(val = l[0])
-    trail = head
-    for i in range(1, len(l)):
-        new = Node(val = l[i])
-        trail.next = new
-        trail = new
-
-    return head
+from utilities.singly_linked_list_node import Node, linked_list_from_list
 
 def mergeTwoLists(l1, l2):
                
@@ -55,13 +44,13 @@ l2 = [1,3,4]
 ll1, h1 = None, None
 ll2, h2 = None, None
 
-ll1 = linkedListFromList(l1)
-ll2 = linkedListFromList(l2)
+ll1 = linked_list_from_list(l1)
+ll2 = linked_list_from_list(l2)
 
-ll1.printList()
-ll2.printList()
+ll1.print_list()
+ll2.print_list()
 
-mergeTwoLists(ll1, ll2).printList()
+mergeTwoLists(ll1, ll2).print_list()
 
 
 
