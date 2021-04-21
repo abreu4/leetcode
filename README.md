@@ -38,6 +38,8 @@ Every file includes a commented link to the original problem.
 | Odd even linked list              |   [Link](oddEvenList.py)         |
 | Excel sheet column number         |   [Link](titleToNumber.py)       |
 | Binary tree level order traverse  |   [Link](levelOrder.py)          |
-
+| Roman to integer                  |   [Link](romanToInt.py)          |
+| Contains duplicate                |   [Link](containsDuplicate.py)   |
+ 
 
 
