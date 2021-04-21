@@ -20,4 +20,4 @@ def kthSmallest2B(matrix, k):
 M = [[1,5,9],[10,11,13],[12,13,15]]
 k = 8
 
-print(kthSmallest2(M, k))
+print(kthSmallest2A(M, k))
