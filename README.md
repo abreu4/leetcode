@@ -40,6 +40,11 @@ Every file includes a commented link to the original problem.
 | Binary tree level order traverse  |   [Link](levelOrder.py)          |
 | Roman to integer                  |   [Link](romanToInt.py)          |
 | Contains duplicate                |   [Link](containsDuplicate.py)   |
- 
+| Pascal's triangle                 |   [Link](generate.py)            |
+| Unique paths                      |   [Link](uniquePaths.py)         |
+| Nested iterator                   |   [Link](nestedIterator.py)      |
+| 4Sum II                           |   [Link](fourSumCount2.py)       |
+| Number of 1 Bits                  |   [Link](hammingWeight.py)       |
+| Implement Trie (Prefix Tree)      |   [Link](trie.py)                |
 
 
