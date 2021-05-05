@@ -28,7 +28,6 @@ def tree_from_array(arr):
 
     def insert_level_order(arr, root, i, n):
 
-        # Base case for recursion 
         if i < n and arr[i]:
       
             temp = TreeNode(val=arr[i])
@@ -39,7 +38,6 @@ def tree_from_array(arr):
         
         return root
 
-    # build binary search tree from sorted array
     head = None
     head = insert_level_order(arr, head, 0, len(arr))
     return head

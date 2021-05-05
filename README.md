@@ -46,5 +46,6 @@ Every file includes a commented link to the original problem.
 | 4Sum II                           |   [Link](fourSumCount2.py)       |
 | Number of 1 Bits                  |   [Link](hammingWeight.py)       |
 | Implement Trie (Prefix Tree)      |   [Link](trie.py)                |
+| Container with most water         |   [Link](maxArea.py)             |
 
 
